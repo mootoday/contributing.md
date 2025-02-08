@@ -1,6 +1,6 @@
 # Contributing
 
-This is how `CONTRIBUTING.md` files for each of Webstone Technologies' customers look like. It takes 1 command to install [Devbox](https://www.jetpack.io/devbox/), and 1 command to get started with any project.
+To contribute to this project, follow the instructions below.
 
 ## Prerequisites
 

@@ -12,7 +12,7 @@ curl -fsSL https://get.jetify.com/devbox | bash
 
 ## Get Started
 
-For any project that is configured with Devbox, run the following command.
+Run the following command to install required languages (e.g. Node.js, Rust, Go, PHP, etc), databases, CLIs (e.g. aws, gcloud, kubectl, etc), install project dependencies, build packages, watch source files, start development servers, you name it.
 
 ```bash
 devbox services up
